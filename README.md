@@ -6,8 +6,6 @@ Head orientation can be defined using pitch, yaw, and roll, so I used a machine 
 ## Demo:
 https://user-images.githubusercontent.com/44211916/178145301-f9dd0f51-3912-4ee6-a8da-9a9f4f3b674d.mp4
 
-
-
 ## Dataset:  
 For this project, the dataset used is <a href=http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip>AFLW2000 Dataset</a>, which consists of 2000 face images, with some information about them like the facial landmarks and the pitch, yaw, and roll values for each picture.
 
